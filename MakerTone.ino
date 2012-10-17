@@ -4,6 +4,8 @@
     
     This program sets up pins 46 through 53 as digital inputs. When those pins see a logic value of "HIGH"
     they will output a tone.
+    
+    Written By: Ben Cannon October 2012
 */
 
 // #includes put the code thats in the file with same name where the #include would be
